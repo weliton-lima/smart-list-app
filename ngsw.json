@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770841426724,
+  "timestamp": 1770845003234,
   "index": "/smart-list-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/smart-list-app/favicon.ico",
         "/smart-list-app/index.html",
-        "/smart-list-app/main.97a7ef82d13f3c0f.js",
+        "/smart-list-app/main.4686bbd01af7b0ae.js",
         "/smart-list-app/manifest.webmanifest",
         "/smart-list-app/polyfills.d510328bdbc3d3ae.js",
         "/smart-list-app/runtime.f51e4564705ba898.js",
@@ -48,8 +48,8 @@
     "/smart-list-app/assets/icons/icon-72x72.png": "e57a2e55a2d4f8b58ddde5cc37920e732375f535",
     "/smart-list-app/assets/icons/icon-96x96.png": "92decc9e8d7f3d2c63a727f97a4a57ebd564d112",
     "/smart-list-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/smart-list-app/index.html": "704629a9a62d224480d2a2d7509f14630f082b06",
-    "/smart-list-app/main.97a7ef82d13f3c0f.js": "3be5e35efcac0151207b4c513fb46c50fdae61f6",
+    "/smart-list-app/index.html": "1b464dbb748bfa7a7351cc99210ba76cbbc2185c",
+    "/smart-list-app/main.4686bbd01af7b0ae.js": "1f65d5b03afe430d4b5368f0a3c1431119250ca8",
     "/smart-list-app/manifest.webmanifest": "36d09c462ab36c912fa9f062034cde90237efd8a",
     "/smart-list-app/polyfills.d510328bdbc3d3ae.js": "d835a57bf700163949d74f21aa3636acd9b981d8",
     "/smart-list-app/runtime.f51e4564705ba898.js": "cc27545feb3c53add15757c774d7cb344ce1e006",

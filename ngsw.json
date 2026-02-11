@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "timestamp": 1770841125666,
+  "index": "/smart-list-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/smart-list-app/favicon.ico",
+        "/smart-list-app/index.html",
+        "/smart-list-app/main.97a7ef82d13f3c0f.js",
+        "/smart-list-app/manifest.webmanifest",
+        "/smart-list-app/polyfills.d510328bdbc3d3ae.js",
+        "/smart-list-app/runtime.f51e4564705ba898.js",
+        "/smart-list-app/styles.67e9fa0afee6c887.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/smart-list-app/assets/icons/icon-144-144.png",
+        "/smart-list-app/assets/icons/icon-192-192.png",
+        "/smart-list-app/assets/icons/icon-48-48.png",
+        "/smart-list-app/assets/icons/icon-512-512.png",
+        "/smart-list-app/assets/icons/icon-72-72.png",
+        "/smart-list-app/assets/icons/icon-96-96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/smart-list-app/assets/icons/icon-144-144.png": "e9bae633622fedd94519a1306d2ce0050acbc080",
+    "/smart-list-app/assets/icons/icon-192-192.png": "426a6085e6bf1d76a4a2fb2b368a3553b6cf3f38",
+    "/smart-list-app/assets/icons/icon-48-48.png": "b206870b1b23fc00515e768d3cb072e4bb4a03f5",
+    "/smart-list-app/assets/icons/icon-512-512.png": "58eca75e15672832962066934c7a9fd5670c3439",
+    "/smart-list-app/assets/icons/icon-72-72.png": "e57a2e55a2d4f8b58ddde5cc37920e732375f535",
+    "/smart-list-app/assets/icons/icon-96-96.png": "92decc9e8d7f3d2c63a727f97a4a57ebd564d112",
+    "/smart-list-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/smart-list-app/index.html": "704629a9a62d224480d2a2d7509f14630f082b06",
+    "/smart-list-app/main.97a7ef82d13f3c0f.js": "3be5e35efcac0151207b4c513fb46c50fdae61f6",
+    "/smart-list-app/manifest.webmanifest": "36d09c462ab36c912fa9f062034cde90237efd8a",
+    "/smart-list-app/polyfills.d510328bdbc3d3ae.js": "d835a57bf700163949d74f21aa3636acd9b981d8",
+    "/smart-list-app/runtime.f51e4564705ba898.js": "cc27545feb3c53add15757c774d7cb344ce1e006",
+    "/smart-list-app/styles.67e9fa0afee6c887.css": "925c39f98537117f2a946f3d617f0f0745747b7f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

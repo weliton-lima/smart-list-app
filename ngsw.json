@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770853918633,
+  "timestamp": 1770923306618,
   "index": "/smart-list-app/index.html",
   "assetGroups": [
     {
@@ -29,8 +29,12 @@
         "ignoreVary": true
       },
       "urls": [
+        "/smart-list-app/assets/icons/icon-128x128.png",
         "/smart-list-app/assets/icons/icon-144x144.png",
+        "/smart-list-app/assets/icons/icon-152x152.png",
         "/smart-list-app/assets/icons/icon-192x192.png",
+        "/smart-list-app/assets/icons/icon-256x256.png",
+        "/smart-list-app/assets/icons/icon-384x384.png",
         "/smart-list-app/assets/icons/icon-48x48.png",
         "/smart-list-app/assets/icons/icon-512x512.png",
         "/smart-list-app/assets/icons/icon-72x72.png",
@@ -41,12 +45,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/smart-list-app/assets/icons/icon-144x144.png": "e9bae633622fedd94519a1306d2ce0050acbc080",
-    "/smart-list-app/assets/icons/icon-192x192.png": "426a6085e6bf1d76a4a2fb2b368a3553b6cf3f38",
-    "/smart-list-app/assets/icons/icon-48x48.png": "b206870b1b23fc00515e768d3cb072e4bb4a03f5",
-    "/smart-list-app/assets/icons/icon-512x512.png": "58eca75e15672832962066934c7a9fd5670c3439",
-    "/smart-list-app/assets/icons/icon-72x72.png": "e57a2e55a2d4f8b58ddde5cc37920e732375f535",
-    "/smart-list-app/assets/icons/icon-96x96.png": "92decc9e8d7f3d2c63a727f97a4a57ebd564d112",
+    "/smart-list-app/assets/icons/icon-128x128.png": "c62bab902390bd043f261b825a135a602fdd4391",
+    "/smart-list-app/assets/icons/icon-144x144.png": "b9592abff6c37f6be56a4bf5a311213044942916",
+    "/smart-list-app/assets/icons/icon-152x152.png": "2751d6e11d3125d606dd1f0cea434be933d5f0f4",
+    "/smart-list-app/assets/icons/icon-192x192.png": "d7265a98499f67022b4a5d3a67f5cdbadeaac640",
+    "/smart-list-app/assets/icons/icon-256x256.png": "b9320060dde9e7efbbc2651fdf97cf9c31893d07",
+    "/smart-list-app/assets/icons/icon-384x384.png": "666d702a723ce3ab4a906d35379c41adff7461b5",
+    "/smart-list-app/assets/icons/icon-48x48.png": "5ef6bad4b7b653488f0b3f3cee0c0c0e24680d2f",
+    "/smart-list-app/assets/icons/icon-512x512.png": "cbb9c47a83f9c1ccbd441edc5b0d949bbb1c1177",
+    "/smart-list-app/assets/icons/icon-72x72.png": "d92eff369e68aa70431e40b939f3129bffc1b4e8",
+    "/smart-list-app/assets/icons/icon-96x96.png": "0ed03d73980f36afab26ec213076a9634b1e41f4",
     "/smart-list-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/smart-list-app/index.html": "c308fdd4d364ffa01f4d427353f7064b55fadd35",
     "/smart-list-app/main.f42351412d34ed43.js": "13898b6b1f31358ad9cfbe4418cf218c0b5a68d3",

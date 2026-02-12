@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770924269739,
+  "timestamp": 1770924818961,
   "index": "/smart-list-app/index.html",
   "assetGroups": [
     {
@@ -36,8 +36,8 @@
         "/smart-list-app/assets/icons/icon-256x256.png",
         "/smart-list-app/assets/icons/icon-384x384.png",
         "/smart-list-app/assets/icons/icon-48x48.png",
-        "/smart-list-app/assets/icons/icon-512x512.png",
-        "/smart-list-app/assets/icons/icon-72x72.png",
+        "/smart-list-app/assets/icons/icon-512x512-v2.png",
+        "/smart-list-app/assets/icons/icon-72x72-v2.png",
         "/smart-list-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
@@ -52,13 +52,13 @@
     "/smart-list-app/assets/icons/icon-256x256.png": "b9320060dde9e7efbbc2651fdf97cf9c31893d07",
     "/smart-list-app/assets/icons/icon-384x384.png": "666d702a723ce3ab4a906d35379c41adff7461b5",
     "/smart-list-app/assets/icons/icon-48x48.png": "5ef6bad4b7b653488f0b3f3cee0c0c0e24680d2f",
-    "/smart-list-app/assets/icons/icon-512x512.png": "cbb9c47a83f9c1ccbd441edc5b0d949bbb1c1177",
-    "/smart-list-app/assets/icons/icon-72x72.png": "d92eff369e68aa70431e40b939f3129bffc1b4e8",
+    "/smart-list-app/assets/icons/icon-512x512-v2.png": "cbb9c47a83f9c1ccbd441edc5b0d949bbb1c1177",
+    "/smart-list-app/assets/icons/icon-72x72-v2.png": "d92eff369e68aa70431e40b939f3129bffc1b4e8",
     "/smart-list-app/assets/icons/icon-96x96.png": "0ed03d73980f36afab26ec213076a9634b1e41f4",
     "/smart-list-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/smart-list-app/index.html": "2e3ad48ad7c1f4e532dbdf5cd56609601f8722ad",
     "/smart-list-app/main.073336e23eead9d6.js": "f46a6c4328db288c7cf334773435256b0c5c341a",
-    "/smart-list-app/manifest.webmanifest": "36d09c462ab36c912fa9f062034cde90237efd8a",
+    "/smart-list-app/manifest.webmanifest": "a37ee52dc53e8df7488cd990a84875e8b26e8bfc",
     "/smart-list-app/polyfills.d510328bdbc3d3ae.js": "d835a57bf700163949d74f21aa3636acd9b981d8",
     "/smart-list-app/runtime.28750d60115c4c5a.js": "5c9fabbf8f1bc39797b74b479f0f3a3f32b6352f",
     "/smart-list-app/styles.0033356b5d676c86.css": "f5dfa23d255180fb39ff05f54bb4e780609e8bfe"
